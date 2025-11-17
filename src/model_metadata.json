@@ -1,0 +1,31 @@
+{
+  "feature_names": [
+    "timeOfDay",
+    "dayOfWeek",
+    "loginDuration",
+    "failedAttempts",
+    "locationConsistency",
+    "wpm",
+    "typingAccuracy",
+    "mouseDynamics_velocity",
+    "mouseDynamics_acceleration",
+    "mouseDynamics_curvature",
+    "dwellTime_mean",
+    "dwellTime_std",
+    "flightTime_mean",
+    "flightTime_std",
+    "clickFrequency",
+    "scrollSpeed",
+    "touchPressure",
+    "swipeVelocity",
+    "archetype",
+    "activityFlow"
+  ],
+  "input_shape": [
+    20
+  ],
+  "test_accuracy": 0.9595000147819519,
+  "test_auc": 0.9621343612670898,
+  "training_date": "2025-10-23T00:50:50.762360",
+  "num_features": 20
+}

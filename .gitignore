@@ -1,0 +1,7 @@
+.venv
+dataset/
+__pycache__/
+model/
+# preprocessor.pkl
+# model_metadata.json
+# insider_threat_model.h5
