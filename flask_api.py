@@ -12,6 +12,7 @@ from datetime import datetime
 import logging
 import traceback
 from sklearn.preprocessing import StandardScaler, LabelEncoder
+tf.keras.backend.clear_session()
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
