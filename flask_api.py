@@ -276,6 +276,9 @@ def load_model_and_preprocessor():
 
     try:
         logger.info("Loading model and preprocessor...")
+        
+        import __main__
+        __main__.BiometricPreprocessor = BiometricPreprocessor
 
         # Load preprocessor first to get input shape
         with open("preprocessor.pkl", "rb") as f:
