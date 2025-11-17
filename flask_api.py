@@ -310,6 +310,8 @@ def load_model_and_preprocessor():
         return False
 
 
+load_model_and_preprocessor()
+
 def extract_features(data):
     """
     Extract and format features from incoming request data
