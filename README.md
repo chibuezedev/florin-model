@@ -690,6 +690,3 @@ For questions or issues related to this PhD project:
 This project is part of a PhD research on AI-based insider threat detection.
 
 ---
-
-**Last Updated**: October 20, 2025  
-**Version**: 1.0.0
