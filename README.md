@@ -1,4 +1,3 @@
-# Insider Threat Detection using Behavioral Biometrics
 
 ## PhD Project: AI-Based Insider Threat Detection System
 
