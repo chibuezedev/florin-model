@@ -1,5 +1,5 @@
 
-## PhD Project: AI-Based Insider Threat Detection System
+Deep Learning Based Insider Threat Detection System
 
 A deep learning system for detecting insider threats using behavioral biometric analysis. This system combines CNN, Transformer, and Attention mechanisms with SHAP explainability for real-time threat detection.
 
